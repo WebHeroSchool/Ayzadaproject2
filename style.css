@@ -1,0 +1,9 @@
+.header
+{color: red;
+font-family: serif;}
+
+.main {
+color: green;
+font-style: oblique;
+font-family: generic-family, cursive;
+}
